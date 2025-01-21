@@ -1,0 +1,53 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# JetBrains IDE configuration files
+.idea/*
+.idea/.name
+
+# Temporary files created by IntelliJ during debugging
+out/
+
+# Maven Local Repository
+.m2/
+
+# Other common ignore patterns
+*.swp
+*~.nib
+*.bak
+*.tmp
+
+# Node.js
+node_modules/
+
+# Gradle
+.gradle/
+
+# JUnit or test logs
+test-logs/
